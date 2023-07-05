@@ -1,0 +1,6 @@
+{
+    "dataworkspace.excludedProjects": [
+        "sql/sql.sqlproj",
+        "python-1/Sql/pandas/pandas.sqlproj"
+    ]
+}
